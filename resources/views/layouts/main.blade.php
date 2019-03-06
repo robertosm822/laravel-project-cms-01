@@ -21,7 +21,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">MyBlog</a>
+              <a class="navbar-brand" href="#">SWM - Roberto S. De Melo</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -42,7 +42,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <p class="copyright">&copy; 2016 Edo Masaru</p>
+                    <p class="copyright">&copy; {{date('Y')}} Roberto Soares De Melo</p>
                 </div>
                 <div class="col-md-4">
                     <nav>
