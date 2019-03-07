@@ -15,7 +15,7 @@
 
         <div class="widget">
             <div class="widget-heading">
-                <h4>Categories</h4>
+                <h4>Categorias</h4>
             </div>
             <div class="widget-body">
                 <ul class="categories">
@@ -31,7 +31,7 @@
 
         <div class="widget">
             <div class="widget-heading">
-                <h4>Popular Posts</h4>
+                <h4>Mais Vistos</h4>
             </div>
             <div class="widget-body">
                 <ul class="popular-posts">

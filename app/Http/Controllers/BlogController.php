@@ -21,6 +21,14 @@ class BlogController extends Controller
         return view("blog.index", compact('posts'));
     }
 
+    public function contato()
+    {
+
+        return view("site.contato");
+    }
+    
+    
+
     public function category(Category $category)
     {
         $categoryName = $category->title;
